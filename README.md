@@ -3,7 +3,7 @@ A MERN based Blog Application site.
 
 ## **PROBLEM STATEMENT**
 
-Abhay is keen upon having its own Blog Website for him and his friends. He wants his website to have basic features of blog website like posting blog, along with,comment,update and delete options.
+Shivam is keen upon having its own Blog Website for him and his friends. He wants his website to have basic features of blog website like posting blog, along with,comment,update and delete options.
 
 ## **TECH STACK**
 
